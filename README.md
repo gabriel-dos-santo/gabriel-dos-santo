@@ -31,6 +31,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-dos-santos&theme=chartreuse_dark" height="160em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-dos-santos&theme=chartreuse_dark" height="160em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-dos-santos&theme=chartreuse_dark" height="160em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-dos-santos&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-dos-santos&theme=chartreuse_dark" height="180em" />
 </div>
 <br>
 <div align="center">
