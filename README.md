@@ -27,25 +27,16 @@
 </td>
 </tr>
 </table>
-<!--- stats (start) -->
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-dos-santo&theme=solarized_dark&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
-</div>
- <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img width="90%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-dos-santo&theme=solarized_dark&exclude={exclude}" />
-</td>
-  <td width="50%" align="center">
-    <img width="90%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-dos-santo&theme=solarized_dark&exclude={exclude}" />
-  </td>
-</tr>
-</table>
-
-<!--- stats (end) -->
 <div align="center">
-   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-dos-santo&bg_color=000000&color=a6f29c&line=27f90b&point=0dfd11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/gabrieldossantos">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-dos-santos&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-dos-santos&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-dos-santos&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-dos-santos&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-dos-santos&theme=chartreuse_dark" height="180em" />
 </div>
+<br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-dos-santos&theme=chartreuse-dark"/>
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
