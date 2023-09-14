@@ -66,6 +66,3 @@
 <p align="left"> 
   Olá! Sou gabriel, sou estudante de software apaixonado por soluções tecnológicas inovadoras. Com habilidades em programação e uma mente analítica, adoro resolver desafios complexos através do código. Tenho experiência no desenvolvimento de software, tanto no front-end quanto no back-end, e estou sempre atualizado com as últimas tendências. Sou apaixonado por escrever código de qualidade e adoro trabalhar em equipe para criar produtos de alto desempenho. Estou animado para contribuir com meu conhecimento e habilidades em projetos emocionantes.
 </p>
-
-
- <p align="center"> <img align="center" src="https://profile-counter.glitch.me/gabriel-dos-santo/count.svg" alt="gabriel-dos-santo :: visitas gabriel-dos-santo" /> </p>
