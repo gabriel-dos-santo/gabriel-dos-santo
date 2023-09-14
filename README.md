@@ -67,14 +67,4 @@
   Olá! Sou gabriel, sou estudante de software apaixonado por soluções tecnológicas inovadoras. Com habilidades em programação e uma mente analítica, adoro resolver desafios complexos através do código. Tenho experiência no desenvolvimento de software, tanto no front-end quanto no back-end, e estou sempre atualizado com as últimas tendências. Sou apaixonado por escrever código de qualidade e adoro trabalhar em equipe para criar produtos de alto desempenho. Estou animado para contribuir com meu conhecimento e habilidades em projetos emocionantes.
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="42" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="43" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="42" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="42" alt="gmail logo"  />
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="42" alt="telegram logo"  />
-  <a href="" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="42" width="42" /></a>
-</div>
-
 <p align="center"><img src="https://profile-counter.glitch.me/gabriel-dos-santo/count.svg" alt="gabriel-dos-santo :: visitas gabriel-dos-santo" /></p>
