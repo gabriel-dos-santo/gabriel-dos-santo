@@ -1,6 +1,6 @@
 <h1 align="center">
   Prazer, eu sou o Gabriel 
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+  <img src="https://encurtador.com.br/l9SBu" width="35">
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <!--gif animado, texto objetivos-->
-<img align="right" alt="GIF" height="200px" src="https://i.redd.it/kfq93rocfsc81.gif">
+<img align="right" alt="GIF" height="200px" src="https://encurtador.com.br/RCYlF">
 
 <h2>Objetivos 🐍⚡</h2>
 <ul>
