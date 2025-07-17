@@ -9,6 +9,7 @@
   </a>
 </p>
 
+<!--gif animado, texto objetivos-->
 <img align="right" alt="GIF" height="200px" src="https://i.redd.it/kfq93rocfsc81.gif">
 
 <h2>Objetivos 🐍⚡</h2>
@@ -41,13 +42,14 @@
 
 <br>
 
+<!--estadisticas produtividade-->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-dos-santo&theme=blue_green" height="160em">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-dos-santo&theme=chartreuse_dark" height="160em">
 </div>
 
 <br>
-
+<!-- estadist grafico -->
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-dos-santo&theme=chartreuse-dark" alt="Atividade do GitHub">
 
 <!-- Troféus -->
@@ -66,6 +68,7 @@
   </a>
 </p>
 
+<!--imagem de cafe, texto sobre mim-->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração de computador">
 
 <h3>Sobre mim 🙋‍♀️</h3>
@@ -82,9 +85,6 @@
   <a href="https://discordapp.com/users/seu-id" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50"></a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/gabriel-dos-santo/count.svg" alt="Contador de visitantes">
-</p>
 
 <!-- Animação de cobra -->
 <picture align="center">
@@ -92,3 +92,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-dos-santo/gabriel-dos-santo/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabriel-dos-santo/gabriel-dos-santo/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!--contador de visitas-->
+<div align="center"> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgabriel-dos-santo&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+</div>
