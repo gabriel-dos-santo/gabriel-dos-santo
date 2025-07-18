@@ -4,10 +4,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Programa%C3%A7%C3%A3o;Engenheiro+de+Software;Apaixonado+por+Tecnologia;Sempre+em+Desenvolvimento&center=true&width=500&height=50">
-  </a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=25&pause=1000&color=1CF70E&width=435&lines=estudante+de+programa%C3%A7%C3%A3o;engenheiro+de+sofitware;apaixonado+por+tecnologia;sempre+em+desevolvimento" alt="Typing SVG" /></a>
+<p>
 
 <!--gif animado, texto objetivos-->
 <img align="right" alt="GIF" height="200px" src="https://encurtador.com.br/RCYlF">
