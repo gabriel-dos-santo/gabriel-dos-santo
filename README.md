@@ -18,13 +18,16 @@
   <li>💡 Objetivo futuro: nunca parar de aprender e criar novas ideias.</li>
 </ul>
 
+<br>
+
 <!-- Estatísticas e Troféus -->
-<div align="center">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel-dos-santo&theme=chartreuse-dark&show_icons=true&count_private=true" alt="Estatísticas do GitHub">
-      <img height="160em" title="🔥 Conquistas" alt="Estatísticas de Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false">
-      <img height="100em"src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Linguagens mais usadas">
+<div>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=gabriel-dos-santo&theme=chartreuse-dark&show_icons=true&count_private=true" alt="Estatísticas do GitHub">
+  <img width="400em" title="🔥 Conquistas" alt="Estatísticas de Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false">
+  <img width="350em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Linguagens mais usadas">
 </div>
 
+<br>
 <!-- Cartões e gráficos -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-dos-santo&theme=chartreuse_dark" height="160em">
