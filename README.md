@@ -4,13 +4,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=25&pause=1000&color=1CF70E&width=435&lines=estudante+de+programa%C3%A7%C3%A3o;engenheiro+de+sofitware;apaixonado+por+tecnologia;sempre+em+desevolvimento" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=25&pause=1000&color=1CF70E&width=435&lines=estudante+de+programa%C3%A7%C3%A3o;engenheiro+de+sofitware;apaixonado+por+tecnologia;sempre+em+desevolvimento" alt="Typing SVG" /></a>
 <p>
 
 <!--gif animado, texto objetivos-->
 <img align="right" alt="GIF" height="200px" src="https://encurtador.com.br/RCYlF">
 
-<h2>Objetivos 🐍⚡</h2>
+<p>objetivos profissionais 🎯📌✅</p>
+
 <ul>
   <li>👨‍💻 Atualmente trabalhando em projetos individuais.</li>
   <li>📚 Aprendendo sobre tecnologias Full Stack (Frontend e Backend).</li>
