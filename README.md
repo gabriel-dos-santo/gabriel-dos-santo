@@ -85,14 +85,14 @@
   <a href="https://discordapp.com/users/seu-id" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50"></a>
 </p>
 
-<!--contador de visitas-->
-<div align="center"> 
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgabriel-dos-santo%2Fgabriel-dos-santo%2Fedit%2Fmain%2FREADME.md&s=40&c=00ff00&bg=00000000&no=9&ff=alien&tb=visitas%3A+&ta=" alt="visits">/></p> 
-</div>
-
 <!-- Animação de cobra -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-dos-santo/gabriel-dos-santo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriel-dos-santo/gabriel-dos-santo/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabriel-dos-santo/gabriel-dos-santo/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!--contador de visitas-->
+<div align="center"> 
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgabriel-dos-santo%2Fgabriel-dos-santo%2Fedit%2Fmain%2FREADME.md&s=40&c=00ff00&bg=00000000&no=9&ff=alien&tb=visitas%3A+&ta=" alt="visits"></p> 
+</div>
