@@ -7,10 +7,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=25&pause=1000&color=1CF70E&width=435&lines=estudante+de+programa%C3%A7%C3%A3o;engenheiro+de+sofitware;apaixonado+por+tecnologia;sempre+em+desevolvimento" alt="Typing SVG" /></a>
 <p>
 
+<br>
 <!--gif animado, texto objetivos-->
-<img align="right" alt="GIF" height="200px" src="https://encurtador.com.br/RCYlF">
-
-<p>objetivos profissionais 🎯📌✅</p>
+  <img align="right" alt="GIF" height="200px" src="https://encurtador.com.br/RCYlF">
+<h2>🎯📌✅objetivos profissionais</h2
 
 <ul>
   <li>👨‍💻 Atualmente trabalhando em projetos individuais.</li>
@@ -19,18 +19,11 @@
 </ul>
 
 <!-- Estatísticas e Troféus -->
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dos-santo&theme=chartreuse-dark&show_icons=true&count_private=true" alt="Estatísticas do GitHub">
-      <br><br>
-      <img title="🔥 Conquistas" alt="Estatísticas de Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Linguagens mais usadas">
-    </td>
-  </tr>
-</table>
+<div align="center">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel-dos-santo&theme=chartreuse-dark&show_icons=true&count_private=true" alt="Estatísticas do GitHub">
+      <img height="160em" title="🔥 Conquistas" alt="Estatísticas de Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false">
+      <img height="100em"src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabriel-dos-santo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Linguagens mais usadas">
+</div>
 
 <!-- Cartões e gráficos -->
 <div align="center">
